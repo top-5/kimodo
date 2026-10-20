@@ -66,6 +66,9 @@ def _build_api_text_encoder_conf(text_encoder_url: str) -> dict:
 
 
 def _build_local_text_encoder_conf(text_encoder_fp32: bool = False) -> dict:
+    local_bundle = get_env_var("LOCAL_LLM2VEC_DIR")
+    if local_bundle:
+        return {"_target_": "kimodo.model.local_text_encoder.LocalLLM2VecEncoder", "directory": local_bundle}
     text_encoder_name = get_env_var("TEXT_ENCODER", DEFAULT_TEXT_ENCODER)
     if text_encoder_name not in TEXT_ENCODER_PRESETS:
         available = ", ".join(sorted(TEXT_ENCODER_PRESETS))
