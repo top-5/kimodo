@@ -27,9 +27,10 @@ load time; attempts to relocate quantized weights afterward are rejected. All
 model/tokenizer loads use local-files-only mode. Instruction formatting and the
 supervised adapter remain consistent with upstream's Llama-3 LLM2Vec encoder.
 
-Nemotron can author choreography text through an application REST API. It does
-not replace this pretrained embedding representation. The adapter does not train
-or claim a Nemotron-to-LLM2Vec translation.
+Nemotron can author choreography text through an application REST API. This
+local LLM2Vec loader retains the pretrained representation. A separate,
+experimental [trained Nemotron projection](nemotron-adapter.md) now provides
+Nemotron features as conditioning; it has its own configuration and validation.
 
 Boundary tests: `python -m unittest discover -s tests -v`. Real embedding and
 motion generation must be checked with the installed bundle before deployment.

@@ -1,0 +1,1282 @@
+[
+  {
+    "text": "A person walks forward slowly and smoothly.",
+    "group": "walks forward",
+    "split": "train"
+  },
+  {
+    "text": "A person walks forward quickly and energetically.",
+    "group": "walks forward",
+    "split": "train"
+  },
+  {
+    "text": "A person walks forward with large exaggerated movements.",
+    "group": "walks forward",
+    "split": "train"
+  },
+  {
+    "text": "A person walks forward with small restrained movements.",
+    "group": "walks forward",
+    "split": "train"
+  },
+  {
+    "text": "A person walks forward rhythmically with relaxed arms.",
+    "group": "walks forward",
+    "split": "train"
+  },
+  {
+    "text": "A person walks forward with sharp accents and pauses.",
+    "group": "walks forward",
+    "split": "train"
+  },
+  {
+    "text": "A person walks forward while keeping the upper body upright.",
+    "group": "walks forward",
+    "split": "train"
+  },
+  {
+    "text": "A person walks forward while shifting weight deliberately.",
+    "group": "walks forward",
+    "split": "train"
+  },
+  {
+    "text": "A person walks backward slowly and smoothly.",
+    "group": "walks backward",
+    "split": "train"
+  },
+  {
+    "text": "A person walks backward quickly and energetically.",
+    "group": "walks backward",
+    "split": "train"
+  },
+  {
+    "text": "A person walks backward with large exaggerated movements.",
+    "group": "walks backward",
+    "split": "train"
+  },
+  {
+    "text": "A person walks backward with small restrained movements.",
+    "group": "walks backward",
+    "split": "train"
+  },
+  {
+    "text": "A person walks backward rhythmically with relaxed arms.",
+    "group": "walks backward",
+    "split": "train"
+  },
+  {
+    "text": "A person walks backward with sharp accents and pauses.",
+    "group": "walks backward",
+    "split": "train"
+  },
+  {
+    "text": "A person walks backward while keeping the upper body upright.",
+    "group": "walks backward",
+    "split": "train"
+  },
+  {
+    "text": "A person walks backward while shifting weight deliberately.",
+    "group": "walks backward",
+    "split": "train"
+  },
+  {
+    "text": "A person steps sideways slowly and smoothly.",
+    "group": "steps sideways",
+    "split": "train"
+  },
+  {
+    "text": "A person steps sideways quickly and energetically.",
+    "group": "steps sideways",
+    "split": "train"
+  },
+  {
+    "text": "A person steps sideways with large exaggerated movements.",
+    "group": "steps sideways",
+    "split": "train"
+  },
+  {
+    "text": "A person steps sideways with small restrained movements.",
+    "group": "steps sideways",
+    "split": "train"
+  },
+  {
+    "text": "A person steps sideways rhythmically with relaxed arms.",
+    "group": "steps sideways",
+    "split": "train"
+  },
+  {
+    "text": "A person steps sideways with sharp accents and pauses.",
+    "group": "steps sideways",
+    "split": "train"
+  },
+  {
+    "text": "A person steps sideways while keeping the upper body upright.",
+    "group": "steps sideways",
+    "split": "train"
+  },
+  {
+    "text": "A person steps sideways while shifting weight deliberately.",
+    "group": "steps sideways",
+    "split": "train"
+  },
+  {
+    "text": "A person marches in place slowly and smoothly.",
+    "group": "marches in place",
+    "split": "train"
+  },
+  {
+    "text": "A person marches in place quickly and energetically.",
+    "group": "marches in place",
+    "split": "train"
+  },
+  {
+    "text": "A person marches in place with large exaggerated movements.",
+    "group": "marches in place",
+    "split": "train"
+  },
+  {
+    "text": "A person marches in place with small restrained movements.",
+    "group": "marches in place",
+    "split": "train"
+  },
+  {
+    "text": "A person marches in place rhythmically with relaxed arms.",
+    "group": "marches in place",
+    "split": "train"
+  },
+  {
+    "text": "A person marches in place with sharp accents and pauses.",
+    "group": "marches in place",
+    "split": "train"
+  },
+  {
+    "text": "A person marches in place while keeping the upper body upright.",
+    "group": "marches in place",
+    "split": "train"
+  },
+  {
+    "text": "A person marches in place while shifting weight deliberately.",
+    "group": "marches in place",
+    "split": "train"
+  },
+  {
+    "text": "A person jogs forward slowly and smoothly.",
+    "group": "jogs forward",
+    "split": "train"
+  },
+  {
+    "text": "A person jogs forward quickly and energetically.",
+    "group": "jogs forward",
+    "split": "train"
+  },
+  {
+    "text": "A person jogs forward with large exaggerated movements.",
+    "group": "jogs forward",
+    "split": "train"
+  },
+  {
+    "text": "A person jogs forward with small restrained movements.",
+    "group": "jogs forward",
+    "split": "train"
+  },
+  {
+    "text": "A person jogs forward rhythmically with relaxed arms.",
+    "group": "jogs forward",
+    "split": "train"
+  },
+  {
+    "text": "A person jogs forward with sharp accents and pauses.",
+    "group": "jogs forward",
+    "split": "train"
+  },
+  {
+    "text": "A person jogs forward while keeping the upper body upright.",
+    "group": "jogs forward",
+    "split": "train"
+  },
+  {
+    "text": "A person jogs forward while shifting weight deliberately.",
+    "group": "jogs forward",
+    "split": "train"
+  },
+  {
+    "text": "A person runs forward slowly and smoothly.",
+    "group": "runs forward",
+    "split": "train"
+  },
+  {
+    "text": "A person runs forward quickly and energetically.",
+    "group": "runs forward",
+    "split": "train"
+  },
+  {
+    "text": "A person runs forward with large exaggerated movements.",
+    "group": "runs forward",
+    "split": "train"
+  },
+  {
+    "text": "A person runs forward with small restrained movements.",
+    "group": "runs forward",
+    "split": "train"
+  },
+  {
+    "text": "A person runs forward rhythmically with relaxed arms.",
+    "group": "runs forward",
+    "split": "train"
+  },
+  {
+    "text": "A person runs forward with sharp accents and pauses.",
+    "group": "runs forward",
+    "split": "train"
+  },
+  {
+    "text": "A person runs forward while keeping the upper body upright.",
+    "group": "runs forward",
+    "split": "train"
+  },
+  {
+    "text": "A person runs forward while shifting weight deliberately.",
+    "group": "runs forward",
+    "split": "train"
+  },
+  {
+    "text": "A person jumps in place slowly and smoothly.",
+    "group": "jumps in place",
+    "split": "validation"
+  },
+  {
+    "text": "A person jumps in place quickly and energetically.",
+    "group": "jumps in place",
+    "split": "validation"
+  },
+  {
+    "text": "A person jumps in place with large exaggerated movements.",
+    "group": "jumps in place",
+    "split": "validation"
+  },
+  {
+    "text": "A person jumps in place with small restrained movements.",
+    "group": "jumps in place",
+    "split": "validation"
+  },
+  {
+    "text": "A person jumps in place rhythmically with relaxed arms.",
+    "group": "jumps in place",
+    "split": "validation"
+  },
+  {
+    "text": "A person jumps in place with sharp accents and pauses.",
+    "group": "jumps in place",
+    "split": "validation"
+  },
+  {
+    "text": "A person jumps in place while keeping the upper body upright.",
+    "group": "jumps in place",
+    "split": "validation"
+  },
+  {
+    "text": "A person jumps in place while shifting weight deliberately.",
+    "group": "jumps in place",
+    "split": "validation"
+  },
+  {
+    "text": "A person hops on one leg slowly and smoothly.",
+    "group": "hops on one leg",
+    "split": "test"
+  },
+  {
+    "text": "A person hops on one leg quickly and energetically.",
+    "group": "hops on one leg",
+    "split": "test"
+  },
+  {
+    "text": "A person hops on one leg with large exaggerated movements.",
+    "group": "hops on one leg",
+    "split": "test"
+  },
+  {
+    "text": "A person hops on one leg with small restrained movements.",
+    "group": "hops on one leg",
+    "split": "test"
+  },
+  {
+    "text": "A person hops on one leg rhythmically with relaxed arms.",
+    "group": "hops on one leg",
+    "split": "test"
+  },
+  {
+    "text": "A person hops on one leg with sharp accents and pauses.",
+    "group": "hops on one leg",
+    "split": "test"
+  },
+  {
+    "text": "A person hops on one leg while keeping the upper body upright.",
+    "group": "hops on one leg",
+    "split": "test"
+  },
+  {
+    "text": "A person hops on one leg while shifting weight deliberately.",
+    "group": "hops on one leg",
+    "split": "test"
+  },
+  {
+    "text": "A person squats down and stands up slowly and smoothly.",
+    "group": "squats down and stands up",
+    "split": "train"
+  },
+  {
+    "text": "A person squats down and stands up quickly and energetically.",
+    "group": "squats down and stands up",
+    "split": "train"
+  },
+  {
+    "text": "A person squats down and stands up with large exaggerated movements.",
+    "group": "squats down and stands up",
+    "split": "train"
+  },
+  {
+    "text": "A person squats down and stands up with small restrained movements.",
+    "group": "squats down and stands up",
+    "split": "train"
+  },
+  {
+    "text": "A person squats down and stands up rhythmically with relaxed arms.",
+    "group": "squats down and stands up",
+    "split": "train"
+  },
+  {
+    "text": "A person squats down and stands up with sharp accents and pauses.",
+    "group": "squats down and stands up",
+    "split": "train"
+  },
+  {
+    "text": "A person squats down and stands up while keeping the upper body upright.",
+    "group": "squats down and stands up",
+    "split": "train"
+  },
+  {
+    "text": "A person squats down and stands up while shifting weight deliberately.",
+    "group": "squats down and stands up",
+    "split": "train"
+  },
+  {
+    "text": "A person lunges forward slowly and smoothly.",
+    "group": "lunges forward",
+    "split": "train"
+  },
+  {
+    "text": "A person lunges forward quickly and energetically.",
+    "group": "lunges forward",
+    "split": "train"
+  },
+  {
+    "text": "A person lunges forward with large exaggerated movements.",
+    "group": "lunges forward",
+    "split": "train"
+  },
+  {
+    "text": "A person lunges forward with small restrained movements.",
+    "group": "lunges forward",
+    "split": "train"
+  },
+  {
+    "text": "A person lunges forward rhythmically with relaxed arms.",
+    "group": "lunges forward",
+    "split": "train"
+  },
+  {
+    "text": "A person lunges forward with sharp accents and pauses.",
+    "group": "lunges forward",
+    "split": "train"
+  },
+  {
+    "text": "A person lunges forward while keeping the upper body upright.",
+    "group": "lunges forward",
+    "split": "train"
+  },
+  {
+    "text": "A person lunges forward while shifting weight deliberately.",
+    "group": "lunges forward",
+    "split": "train"
+  },
+  {
+    "text": "A person kicks one leg forward slowly and smoothly.",
+    "group": "kicks one leg forward",
+    "split": "train"
+  },
+  {
+    "text": "A person kicks one leg forward quickly and energetically.",
+    "group": "kicks one leg forward",
+    "split": "train"
+  },
+  {
+    "text": "A person kicks one leg forward with large exaggerated movements.",
+    "group": "kicks one leg forward",
+    "split": "train"
+  },
+  {
+    "text": "A person kicks one leg forward with small restrained movements.",
+    "group": "kicks one leg forward",
+    "split": "train"
+  },
+  {
+    "text": "A person kicks one leg forward rhythmically with relaxed arms.",
+    "group": "kicks one leg forward",
+    "split": "train"
+  },
+  {
+    "text": "A person kicks one leg forward with sharp accents and pauses.",
+    "group": "kicks one leg forward",
+    "split": "train"
+  },
+  {
+    "text": "A person kicks one leg forward while keeping the upper body upright.",
+    "group": "kicks one leg forward",
+    "split": "train"
+  },
+  {
+    "text": "A person kicks one leg forward while shifting weight deliberately.",
+    "group": "kicks one leg forward",
+    "split": "train"
+  },
+  {
+    "text": "A person balances on one foot slowly and smoothly.",
+    "group": "balances on one foot",
+    "split": "train"
+  },
+  {
+    "text": "A person balances on one foot quickly and energetically.",
+    "group": "balances on one foot",
+    "split": "train"
+  },
+  {
+    "text": "A person balances on one foot with large exaggerated movements.",
+    "group": "balances on one foot",
+    "split": "train"
+  },
+  {
+    "text": "A person balances on one foot with small restrained movements.",
+    "group": "balances on one foot",
+    "split": "train"
+  },
+  {
+    "text": "A person balances on one foot rhythmically with relaxed arms.",
+    "group": "balances on one foot",
+    "split": "train"
+  },
+  {
+    "text": "A person balances on one foot with sharp accents and pauses.",
+    "group": "balances on one foot",
+    "split": "train"
+  },
+  {
+    "text": "A person balances on one foot while keeping the upper body upright.",
+    "group": "balances on one foot",
+    "split": "train"
+  },
+  {
+    "text": "A person balances on one foot while shifting weight deliberately.",
+    "group": "balances on one foot",
+    "split": "train"
+  },
+  {
+    "text": "A person turns around slowly and smoothly.",
+    "group": "turns around",
+    "split": "train"
+  },
+  {
+    "text": "A person turns around quickly and energetically.",
+    "group": "turns around",
+    "split": "train"
+  },
+  {
+    "text": "A person turns around with large exaggerated movements.",
+    "group": "turns around",
+    "split": "train"
+  },
+  {
+    "text": "A person turns around with small restrained movements.",
+    "group": "turns around",
+    "split": "train"
+  },
+  {
+    "text": "A person turns around rhythmically with relaxed arms.",
+    "group": "turns around",
+    "split": "train"
+  },
+  {
+    "text": "A person turns around with sharp accents and pauses.",
+    "group": "turns around",
+    "split": "train"
+  },
+  {
+    "text": "A person turns around while keeping the upper body upright.",
+    "group": "turns around",
+    "split": "train"
+  },
+  {
+    "text": "A person turns around while shifting weight deliberately.",
+    "group": "turns around",
+    "split": "train"
+  },
+  {
+    "text": "A person spins in place slowly and smoothly.",
+    "group": "spins in place",
+    "split": "train"
+  },
+  {
+    "text": "A person spins in place quickly and energetically.",
+    "group": "spins in place",
+    "split": "train"
+  },
+  {
+    "text": "A person spins in place with large exaggerated movements.",
+    "group": "spins in place",
+    "split": "train"
+  },
+  {
+    "text": "A person spins in place with small restrained movements.",
+    "group": "spins in place",
+    "split": "train"
+  },
+  {
+    "text": "A person spins in place rhythmically with relaxed arms.",
+    "group": "spins in place",
+    "split": "train"
+  },
+  {
+    "text": "A person spins in place with sharp accents and pauses.",
+    "group": "spins in place",
+    "split": "train"
+  },
+  {
+    "text": "A person spins in place while keeping the upper body upright.",
+    "group": "spins in place",
+    "split": "train"
+  },
+  {
+    "text": "A person spins in place while shifting weight deliberately.",
+    "group": "spins in place",
+    "split": "train"
+  },
+  {
+    "text": "A person sways from side to side slowly and smoothly.",
+    "group": "sways from side to side",
+    "split": "validation"
+  },
+  {
+    "text": "A person sways from side to side quickly and energetically.",
+    "group": "sways from side to side",
+    "split": "validation"
+  },
+  {
+    "text": "A person sways from side to side with large exaggerated movements.",
+    "group": "sways from side to side",
+    "split": "validation"
+  },
+  {
+    "text": "A person sways from side to side with small restrained movements.",
+    "group": "sways from side to side",
+    "split": "validation"
+  },
+  {
+    "text": "A person sways from side to side rhythmically with relaxed arms.",
+    "group": "sways from side to side",
+    "split": "validation"
+  },
+  {
+    "text": "A person sways from side to side with sharp accents and pauses.",
+    "group": "sways from side to side",
+    "split": "validation"
+  },
+  {
+    "text": "A person sways from side to side while keeping the upper body upright.",
+    "group": "sways from side to side",
+    "split": "validation"
+  },
+  {
+    "text": "A person sways from side to side while shifting weight deliberately.",
+    "group": "sways from side to side",
+    "split": "validation"
+  },
+  {
+    "text": "A person bounces at the knees slowly and smoothly.",
+    "group": "bounces at the knees",
+    "split": "test"
+  },
+  {
+    "text": "A person bounces at the knees quickly and energetically.",
+    "group": "bounces at the knees",
+    "split": "test"
+  },
+  {
+    "text": "A person bounces at the knees with large exaggerated movements.",
+    "group": "bounces at the knees",
+    "split": "test"
+  },
+  {
+    "text": "A person bounces at the knees with small restrained movements.",
+    "group": "bounces at the knees",
+    "split": "test"
+  },
+  {
+    "text": "A person bounces at the knees rhythmically with relaxed arms.",
+    "group": "bounces at the knees",
+    "split": "test"
+  },
+  {
+    "text": "A person bounces at the knees with sharp accents and pauses.",
+    "group": "bounces at the knees",
+    "split": "test"
+  },
+  {
+    "text": "A person bounces at the knees while keeping the upper body upright.",
+    "group": "bounces at the knees",
+    "split": "test"
+  },
+  {
+    "text": "A person bounces at the knees while shifting weight deliberately.",
+    "group": "bounces at the knees",
+    "split": "test"
+  },
+  {
+    "text": "A person raises both arms overhead slowly and smoothly.",
+    "group": "raises both arms overhead",
+    "split": "train"
+  },
+  {
+    "text": "A person raises both arms overhead quickly and energetically.",
+    "group": "raises both arms overhead",
+    "split": "train"
+  },
+  {
+    "text": "A person raises both arms overhead with large exaggerated movements.",
+    "group": "raises both arms overhead",
+    "split": "train"
+  },
+  {
+    "text": "A person raises both arms overhead with small restrained movements.",
+    "group": "raises both arms overhead",
+    "split": "train"
+  },
+  {
+    "text": "A person raises both arms overhead rhythmically with relaxed arms.",
+    "group": "raises both arms overhead",
+    "split": "train"
+  },
+  {
+    "text": "A person raises both arms overhead with sharp accents and pauses.",
+    "group": "raises both arms overhead",
+    "split": "train"
+  },
+  {
+    "text": "A person raises both arms overhead while keeping the upper body upright.",
+    "group": "raises both arms overhead",
+    "split": "train"
+  },
+  {
+    "text": "A person raises both arms overhead while shifting weight deliberately.",
+    "group": "raises both arms overhead",
+    "split": "train"
+  },
+  {
+    "text": "A person sweeps both arms outward slowly and smoothly.",
+    "group": "sweeps both arms outward",
+    "split": "train"
+  },
+  {
+    "text": "A person sweeps both arms outward quickly and energetically.",
+    "group": "sweeps both arms outward",
+    "split": "train"
+  },
+  {
+    "text": "A person sweeps both arms outward with large exaggerated movements.",
+    "group": "sweeps both arms outward",
+    "split": "train"
+  },
+  {
+    "text": "A person sweeps both arms outward with small restrained movements.",
+    "group": "sweeps both arms outward",
+    "split": "train"
+  },
+  {
+    "text": "A person sweeps both arms outward rhythmically with relaxed arms.",
+    "group": "sweeps both arms outward",
+    "split": "train"
+  },
+  {
+    "text": "A person sweeps both arms outward with sharp accents and pauses.",
+    "group": "sweeps both arms outward",
+    "split": "train"
+  },
+  {
+    "text": "A person sweeps both arms outward while keeping the upper body upright.",
+    "group": "sweeps both arms outward",
+    "split": "train"
+  },
+  {
+    "text": "A person sweeps both arms outward while shifting weight deliberately.",
+    "group": "sweeps both arms outward",
+    "split": "train"
+  },
+  {
+    "text": "A person punches forward slowly and smoothly.",
+    "group": "punches forward",
+    "split": "train"
+  },
+  {
+    "text": "A person punches forward quickly and energetically.",
+    "group": "punches forward",
+    "split": "train"
+  },
+  {
+    "text": "A person punches forward with large exaggerated movements.",
+    "group": "punches forward",
+    "split": "train"
+  },
+  {
+    "text": "A person punches forward with small restrained movements.",
+    "group": "punches forward",
+    "split": "train"
+  },
+  {
+    "text": "A person punches forward rhythmically with relaxed arms.",
+    "group": "punches forward",
+    "split": "train"
+  },
+  {
+    "text": "A person punches forward with sharp accents and pauses.",
+    "group": "punches forward",
+    "split": "train"
+  },
+  {
+    "text": "A person punches forward while keeping the upper body upright.",
+    "group": "punches forward",
+    "split": "train"
+  },
+  {
+    "text": "A person punches forward while shifting weight deliberately.",
+    "group": "punches forward",
+    "split": "train"
+  },
+  {
+    "text": "A person waves one hand slowly and smoothly.",
+    "group": "waves one hand",
+    "split": "train"
+  },
+  {
+    "text": "A person waves one hand quickly and energetically.",
+    "group": "waves one hand",
+    "split": "train"
+  },
+  {
+    "text": "A person waves one hand with large exaggerated movements.",
+    "group": "waves one hand",
+    "split": "train"
+  },
+  {
+    "text": "A person waves one hand with small restrained movements.",
+    "group": "waves one hand",
+    "split": "train"
+  },
+  {
+    "text": "A person waves one hand rhythmically with relaxed arms.",
+    "group": "waves one hand",
+    "split": "train"
+  },
+  {
+    "text": "A person waves one hand with sharp accents and pauses.",
+    "group": "waves one hand",
+    "split": "train"
+  },
+  {
+    "text": "A person waves one hand while keeping the upper body upright.",
+    "group": "waves one hand",
+    "split": "train"
+  },
+  {
+    "text": "A person waves one hand while shifting weight deliberately.",
+    "group": "waves one hand",
+    "split": "train"
+  },
+  {
+    "text": "A person claps both hands slowly and smoothly.",
+    "group": "claps both hands",
+    "split": "train"
+  },
+  {
+    "text": "A person claps both hands quickly and energetically.",
+    "group": "claps both hands",
+    "split": "train"
+  },
+  {
+    "text": "A person claps both hands with large exaggerated movements.",
+    "group": "claps both hands",
+    "split": "train"
+  },
+  {
+    "text": "A person claps both hands with small restrained movements.",
+    "group": "claps both hands",
+    "split": "train"
+  },
+  {
+    "text": "A person claps both hands rhythmically with relaxed arms.",
+    "group": "claps both hands",
+    "split": "train"
+  },
+  {
+    "text": "A person claps both hands with sharp accents and pauses.",
+    "group": "claps both hands",
+    "split": "train"
+  },
+  {
+    "text": "A person claps both hands while keeping the upper body upright.",
+    "group": "claps both hands",
+    "split": "train"
+  },
+  {
+    "text": "A person claps both hands while shifting weight deliberately.",
+    "group": "claps both hands",
+    "split": "train"
+  },
+  {
+    "text": "A person rolls both shoulders slowly and smoothly.",
+    "group": "rolls both shoulders",
+    "split": "train"
+  },
+  {
+    "text": "A person rolls both shoulders quickly and energetically.",
+    "group": "rolls both shoulders",
+    "split": "train"
+  },
+  {
+    "text": "A person rolls both shoulders with large exaggerated movements.",
+    "group": "rolls both shoulders",
+    "split": "train"
+  },
+  {
+    "text": "A person rolls both shoulders with small restrained movements.",
+    "group": "rolls both shoulders",
+    "split": "train"
+  },
+  {
+    "text": "A person rolls both shoulders rhythmically with relaxed arms.",
+    "group": "rolls both shoulders",
+    "split": "train"
+  },
+  {
+    "text": "A person rolls both shoulders with sharp accents and pauses.",
+    "group": "rolls both shoulders",
+    "split": "train"
+  },
+  {
+    "text": "A person rolls both shoulders while keeping the upper body upright.",
+    "group": "rolls both shoulders",
+    "split": "train"
+  },
+  {
+    "text": "A person rolls both shoulders while shifting weight deliberately.",
+    "group": "rolls both shoulders",
+    "split": "train"
+  },
+  {
+    "text": "A person leans forward slowly and smoothly.",
+    "group": "leans forward",
+    "split": "validation"
+  },
+  {
+    "text": "A person leans forward quickly and energetically.",
+    "group": "leans forward",
+    "split": "validation"
+  },
+  {
+    "text": "A person leans forward with large exaggerated movements.",
+    "group": "leans forward",
+    "split": "validation"
+  },
+  {
+    "text": "A person leans forward with small restrained movements.",
+    "group": "leans forward",
+    "split": "validation"
+  },
+  {
+    "text": "A person leans forward rhythmically with relaxed arms.",
+    "group": "leans forward",
+    "split": "validation"
+  },
+  {
+    "text": "A person leans forward with sharp accents and pauses.",
+    "group": "leans forward",
+    "split": "validation"
+  },
+  {
+    "text": "A person leans forward while keeping the upper body upright.",
+    "group": "leans forward",
+    "split": "validation"
+  },
+  {
+    "text": "A person leans forward while shifting weight deliberately.",
+    "group": "leans forward",
+    "split": "validation"
+  },
+  {
+    "text": "A person bends sideways slowly and smoothly.",
+    "group": "bends sideways",
+    "split": "test"
+  },
+  {
+    "text": "A person bends sideways quickly and energetically.",
+    "group": "bends sideways",
+    "split": "test"
+  },
+  {
+    "text": "A person bends sideways with large exaggerated movements.",
+    "group": "bends sideways",
+    "split": "test"
+  },
+  {
+    "text": "A person bends sideways with small restrained movements.",
+    "group": "bends sideways",
+    "split": "test"
+  },
+  {
+    "text": "A person bends sideways rhythmically with relaxed arms.",
+    "group": "bends sideways",
+    "split": "test"
+  },
+  {
+    "text": "A person bends sideways with sharp accents and pauses.",
+    "group": "bends sideways",
+    "split": "test"
+  },
+  {
+    "text": "A person bends sideways while keeping the upper body upright.",
+    "group": "bends sideways",
+    "split": "test"
+  },
+  {
+    "text": "A person bends sideways while shifting weight deliberately.",
+    "group": "bends sideways",
+    "split": "test"
+  },
+  {
+    "text": "A person crawls on the floor slowly and smoothly.",
+    "group": "crawls on the floor",
+    "split": "train"
+  },
+  {
+    "text": "A person crawls on the floor quickly and energetically.",
+    "group": "crawls on the floor",
+    "split": "train"
+  },
+  {
+    "text": "A person crawls on the floor with large exaggerated movements.",
+    "group": "crawls on the floor",
+    "split": "train"
+  },
+  {
+    "text": "A person crawls on the floor with small restrained movements.",
+    "group": "crawls on the floor",
+    "split": "train"
+  },
+  {
+    "text": "A person crawls on the floor rhythmically with relaxed arms.",
+    "group": "crawls on the floor",
+    "split": "train"
+  },
+  {
+    "text": "A person crawls on the floor with sharp accents and pauses.",
+    "group": "crawls on the floor",
+    "split": "train"
+  },
+  {
+    "text": "A person crawls on the floor while keeping the upper body upright.",
+    "group": "crawls on the floor",
+    "split": "train"
+  },
+  {
+    "text": "A person crawls on the floor while shifting weight deliberately.",
+    "group": "crawls on the floor",
+    "split": "train"
+  },
+  {
+    "text": "A person sits on a chair slowly and smoothly.",
+    "group": "sits on a chair",
+    "split": "train"
+  },
+  {
+    "text": "A person sits on a chair quickly and energetically.",
+    "group": "sits on a chair",
+    "split": "train"
+  },
+  {
+    "text": "A person sits on a chair with large exaggerated movements.",
+    "group": "sits on a chair",
+    "split": "train"
+  },
+  {
+    "text": "A person sits on a chair with small restrained movements.",
+    "group": "sits on a chair",
+    "split": "train"
+  },
+  {
+    "text": "A person sits on a chair rhythmically with relaxed arms.",
+    "group": "sits on a chair",
+    "split": "train"
+  },
+  {
+    "text": "A person sits on a chair with sharp accents and pauses.",
+    "group": "sits on a chair",
+    "split": "train"
+  },
+  {
+    "text": "A person sits on a chair while keeping the upper body upright.",
+    "group": "sits on a chair",
+    "split": "train"
+  },
+  {
+    "text": "A person sits on a chair while shifting weight deliberately.",
+    "group": "sits on a chair",
+    "split": "train"
+  },
+  {
+    "text": "A person stands up from a chair slowly and smoothly.",
+    "group": "stands up from a chair",
+    "split": "train"
+  },
+  {
+    "text": "A person stands up from a chair quickly and energetically.",
+    "group": "stands up from a chair",
+    "split": "train"
+  },
+  {
+    "text": "A person stands up from a chair with large exaggerated movements.",
+    "group": "stands up from a chair",
+    "split": "train"
+  },
+  {
+    "text": "A person stands up from a chair with small restrained movements.",
+    "group": "stands up from a chair",
+    "split": "train"
+  },
+  {
+    "text": "A person stands up from a chair rhythmically with relaxed arms.",
+    "group": "stands up from a chair",
+    "split": "train"
+  },
+  {
+    "text": "A person stands up from a chair with sharp accents and pauses.",
+    "group": "stands up from a chair",
+    "split": "train"
+  },
+  {
+    "text": "A person stands up from a chair while keeping the upper body upright.",
+    "group": "stands up from a chair",
+    "split": "train"
+  },
+  {
+    "text": "A person stands up from a chair while shifting weight deliberately.",
+    "group": "stands up from a chair",
+    "split": "train"
+  },
+  {
+    "text": "A person kneels on the ground slowly and smoothly.",
+    "group": "kneels on the ground",
+    "split": "train"
+  },
+  {
+    "text": "A person kneels on the ground quickly and energetically.",
+    "group": "kneels on the ground",
+    "split": "train"
+  },
+  {
+    "text": "A person kneels on the ground with large exaggerated movements.",
+    "group": "kneels on the ground",
+    "split": "train"
+  },
+  {
+    "text": "A person kneels on the ground with small restrained movements.",
+    "group": "kneels on the ground",
+    "split": "train"
+  },
+  {
+    "text": "A person kneels on the ground rhythmically with relaxed arms.",
+    "group": "kneels on the ground",
+    "split": "train"
+  },
+  {
+    "text": "A person kneels on the ground with sharp accents and pauses.",
+    "group": "kneels on the ground",
+    "split": "train"
+  },
+  {
+    "text": "A person kneels on the ground while keeping the upper body upright.",
+    "group": "kneels on the ground",
+    "split": "train"
+  },
+  {
+    "text": "A person kneels on the ground while shifting weight deliberately.",
+    "group": "kneels on the ground",
+    "split": "train"
+  },
+  {
+    "text": "A person dances with crossing steps slowly and smoothly.",
+    "group": "dances with crossing steps",
+    "split": "train"
+  },
+  {
+    "text": "A person dances with crossing steps quickly and energetically.",
+    "group": "dances with crossing steps",
+    "split": "train"
+  },
+  {
+    "text": "A person dances with crossing steps with large exaggerated movements.",
+    "group": "dances with crossing steps",
+    "split": "train"
+  },
+  {
+    "text": "A person dances with crossing steps with small restrained movements.",
+    "group": "dances with crossing steps",
+    "split": "train"
+  },
+  {
+    "text": "A person dances with crossing steps rhythmically with relaxed arms.",
+    "group": "dances with crossing steps",
+    "split": "train"
+  },
+  {
+    "text": "A person dances with crossing steps with sharp accents and pauses.",
+    "group": "dances with crossing steps",
+    "split": "train"
+  },
+  {
+    "text": "A person dances with crossing steps while keeping the upper body upright.",
+    "group": "dances with crossing steps",
+    "split": "train"
+  },
+  {
+    "text": "A person dances with crossing steps while shifting weight deliberately.",
+    "group": "dances with crossing steps",
+    "split": "train"
+  },
+  {
+    "text": "A person dances with a hip sway slowly and smoothly.",
+    "group": "dances with a hip sway",
+    "split": "train"
+  },
+  {
+    "text": "A person dances with a hip sway quickly and energetically.",
+    "group": "dances with a hip sway",
+    "split": "train"
+  },
+  {
+    "text": "A person dances with a hip sway with large exaggerated movements.",
+    "group": "dances with a hip sway",
+    "split": "train"
+  },
+  {
+    "text": "A person dances with a hip sway with small restrained movements.",
+    "group": "dances with a hip sway",
+    "split": "train"
+  },
+  {
+    "text": "A person dances with a hip sway rhythmically with relaxed arms.",
+    "group": "dances with a hip sway",
+    "split": "train"
+  },
+  {
+    "text": "A person dances with a hip sway with sharp accents and pauses.",
+    "group": "dances with a hip sway",
+    "split": "train"
+  },
+  {
+    "text": "A person dances with a hip sway while keeping the upper body upright.",
+    "group": "dances with a hip sway",
+    "split": "train"
+  },
+  {
+    "text": "A person dances with a hip sway while shifting weight deliberately.",
+    "group": "dances with a hip sway",
+    "split": "train"
+  },
+  {
+    "text": "A person dances with a body roll slowly and smoothly.",
+    "group": "dances with a body roll",
+    "split": "validation"
+  },
+  {
+    "text": "A person dances with a body roll quickly and energetically.",
+    "group": "dances with a body roll",
+    "split": "validation"
+  },
+  {
+    "text": "A person dances with a body roll with large exaggerated movements.",
+    "group": "dances with a body roll",
+    "split": "validation"
+  },
+  {
+    "text": "A person dances with a body roll with small restrained movements.",
+    "group": "dances with a body roll",
+    "split": "validation"
+  },
+  {
+    "text": "A person dances with a body roll rhythmically with relaxed arms.",
+    "group": "dances with a body roll",
+    "split": "validation"
+  },
+  {
+    "text": "A person dances with a body roll with sharp accents and pauses.",
+    "group": "dances with a body roll",
+    "split": "validation"
+  },
+  {
+    "text": "A person dances with a body roll while keeping the upper body upright.",
+    "group": "dances with a body roll",
+    "split": "validation"
+  },
+  {
+    "text": "A person dances with a body roll while shifting weight deliberately.",
+    "group": "dances with a body roll",
+    "split": "validation"
+  },
+  {
+    "text": "A person dances with alternating heel taps slowly and smoothly.",
+    "group": "dances with alternating heel taps",
+    "split": "test"
+  },
+  {
+    "text": "A person dances with alternating heel taps quickly and energetically.",
+    "group": "dances with alternating heel taps",
+    "split": "test"
+  },
+  {
+    "text": "A person dances with alternating heel taps with large exaggerated movements.",
+    "group": "dances with alternating heel taps",
+    "split": "test"
+  },
+  {
+    "text": "A person dances with alternating heel taps with small restrained movements.",
+    "group": "dances with alternating heel taps",
+    "split": "test"
+  },
+  {
+    "text": "A person dances with alternating heel taps rhythmically with relaxed arms.",
+    "group": "dances with alternating heel taps",
+    "split": "test"
+  },
+  {
+    "text": "A person dances with alternating heel taps with sharp accents and pauses.",
+    "group": "dances with alternating heel taps",
+    "split": "test"
+  },
+  {
+    "text": "A person dances with alternating heel taps while keeping the upper body upright.",
+    "group": "dances with alternating heel taps",
+    "split": "test"
+  },
+  {
+    "text": "A person dances with alternating heel taps while shifting weight deliberately.",
+    "group": "dances with alternating heel taps",
+    "split": "test"
+  }
+]
