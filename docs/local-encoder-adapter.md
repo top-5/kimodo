@@ -14,6 +14,7 @@ A published candidate is `matbee/kimodo-llm2vec-nf4`, revision
 and the separate supervised adapter. The original model's license still applies.
 
 ```sh
+pip install -e ".[local-encoder]"
 hf download matbee/kimodo-llm2vec-nf4 \
   --revision 268b2f7bbbb8361bce76cc3f34d61b5467643a59 \
   --local-dir /path/to/encoder
@@ -32,3 +33,13 @@ or claim a Nemotron-to-LLM2Vec translation.
 
 Boundary tests: `python -m unittest discover -s tests -v`. Real embedding and
 motion generation must be checked with the installed bundle before deployment.
+
+## Verified integration
+
+The pinned quantized bundle passed a real `[1,1,4096]` embedding call and a
+four-second SOMA-RP-v1.2 generation (120 frames at 30 FPS). The Dancey integration
+also generated a 114.9-second source sequence, fitted it to a 114-second song
+across twelve musical phrases and played its 68-track retargeted animation on
+the actual game avatar. Animation safety accepted it; browser acceptance found
+no page errors. This proves the functional path, not equivalence to BF16 or
+choreography quality. Some measured phrase correlations were low.

@@ -33,6 +33,7 @@ dependencies = [
 ]
 
 [project.optional-dependencies]
+local-encoder = ["bitsandbytes>=0.43"]
 demo = [
   "viser @ git+https://github.com/nv-tlabs/kimodo-viser.git",
 ]
